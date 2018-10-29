@@ -1,9 +1,12 @@
 # hello_python
 
-### 1. Description ###
+## Description ###
 Simple app that prints "hello" 
 
-### 2. Files ###
-* hello.rb - This is our simple app code
-* test.rb - The script which tests proper work of `hello.rb`
-* .travis.yml - The configuration file of continuous integration tool
+## Files ###
+- `hello.py` This is our simple app code
+
+## TODO
+
+- `test.py` The script that test our code do what is intented to do
+- `.travis.yml` The configuration file of continuous integration tool
